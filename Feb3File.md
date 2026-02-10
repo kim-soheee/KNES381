@@ -6,8 +6,8 @@ Tuesday Class
 
 | header | header2 | header 3 |
 | --- | --- | --- |
-| row | ![why not rendering](85409691-79F0-48E1-A656-89A1AE19E742_1_105_c.jpeg)| :dog: |
+| row | ![why not rendering](images/85409691-79F0-48E1-A656-89A1AE19E742_1_105_c.jpeg)| :dog: |
 
-![why not rendering](85409691-79F0-48E1-A656-89A1AE19E742_1_105_c.jpeg)
+![why not rendering](images/85409691-79F0-48E1-A656-89A1AE19E742_1_105_c.jpeg)
 
 :laughing:
